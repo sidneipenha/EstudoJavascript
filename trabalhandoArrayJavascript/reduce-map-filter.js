@@ -1,3 +1,4 @@
+//material disponibilizado pelo Ayrton(programadorabordo) na aula de array
 const numeros = [5, 12, 30, 10, 99, 4];
 /* 
   Soma total
